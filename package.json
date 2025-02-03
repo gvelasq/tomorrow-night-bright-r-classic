@@ -1,0 +1,21 @@
+{
+  "name": "tomorrow-night-bright-r-classic",
+  "displayName": "Tomorrow Night Bright (R Classic)",
+  "description": "A modified Tomorrow Night Bright theme for Positron and VS Code, inspired by RStudio's implementation",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tomorrow Night Bright (R Classic)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tomorrow-night-bright-r-classic.json"
+      }
+    ]
+  }
+}
