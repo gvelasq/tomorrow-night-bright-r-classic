@@ -1,0 +1,7 @@
+node_modules
+*.vsix
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
