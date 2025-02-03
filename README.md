@@ -16,12 +16,12 @@ Tomorrow Night Bright R Classic
 
 ### 🎨 Palette
 
-**Tomorrow Night Bright R Classic** is an excellent dark, high contrast (‘bright’), MIT-licensed color theme. It is one of the variants included in the [Tomorrow](https://github.com/chriskempson/tomorrow-theme) theme originally written by Chris Kempson.
+**Tomorrow Night Bright R Classic** is a dark, high contrast (‘bright’), MIT-licensed color theme. It is one of the variants included in the [Tomorrow](https://github.com/chriskempson/tomorrow-theme) theme originally written by Chris Kempson.
 
 <table>
 	<tr>
 		<th></th>
-		<th>Labels</th>
+		<th>Label</th>
 		<th>Hex</th>
 		<th>RGB</th>
 	</tr>
