@@ -2,7 +2,7 @@
 > A modified Tomorrow Night Bright theme for Positron and VS Code, inspired by RStudio's implementation
 
 <h2 align="center">
-<img src="assets/logos/logo.png" width="100" alt="Logo"/><br/>
+<img src="assets/logos/logo.png" width="200" alt="Logo"/><br/>
 Tomorrow Night Bright R Classic
 </h2>
 
