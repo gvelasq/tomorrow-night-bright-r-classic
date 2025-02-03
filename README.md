@@ -1,9 +1,9 @@
-# Tomorrow Night Bright R Classic
+# Tomorrow Night Bright (R Classic)
 > A modified Tomorrow Night Bright theme for Positron and VS Code, inspired by RStudio's implementation
 
 <h2 align="center">
 <img src="assets/logos/logo.png" width="200" alt="Logo"/><br/>
-Tomorrow Night Bright R Classic
+Tomorrow Night Bright (R Classic)
 </h2>
 
 <h3 align="center">
@@ -16,7 +16,7 @@ Tomorrow Night Bright R Classic
 
 ### 🎨 Palette
 
-**Tomorrow Night Bright R Classic** is a dark, high contrast (‘bright’), MIT-licensed color theme. It is one of the variants included in the [Tomorrow](https://github.com/chriskempson/tomorrow-theme) theme originally written by Chris Kempson.
+**Tomorrow Night Bright (R Classic)** is a dark, high contrast (‘bright’), MIT-licensed color theme. Tomorrow Night Bright is one of the variants included in the [Tomorrow](https://github.com/chriskempson/tomorrow-theme) theme originally written by Chris Kempson.
 
 <table>
 	<tr>
@@ -69,26 +69,28 @@ Tomorrow Night Bright R Classic
 	</tr>
 </table>
 
+This theme has two major inspirations: the editor is inspired by Posit's implementation of Tomorrow Night Bright in the RStudio IDE, and the workbench is inspired by Microsoft's implementation of GitHub Dark Default (with modifications).
+
 ### 🖥️ Installation
 
 #### Install using Command Palette
 
 1. Go to` View -> Command Palette` or press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>
 2. Then enter `Install Extension`
-3. Write `Tomorrow Night Bright R Classic`
+3. Write `Tomorrow Night Bright (R Classic)`
 4. Select or press `Enter` to install
 
 #### Activating theme
 
-Open Positron. The Tomorrow Night Bright R Classic Theme will be available from `File` -> `Preferences` -> `Color Theme` dropdown menu.
+Open Positron. Tomorrow Night Bright (R Classic) will be available from the `File` -> `Preferences` -> `Color Theme` dropdown menu.
 
 ### 📜 License
 
-Tomorrow Night Bright R Classic is released under the MIT license, which grants the following permissions:
+Tomorrow Night Bright (R Classic) is released under the MIT license, which grants the following permissions:
 
 - Commercial use
 - Distribution
 - Modification
 - Private use
 
-For more details, see the [LICENSE](https://github.com/gvelasq/tomorrow-night-bright-r-classic/blob/main/LICENSE).
+For more details, see the [LICENSE](https://github.com/gvelasq/tomorrow-night-bright-r-classic/blob/main/LICENSE) and [third party notices](https://github.com/gvelasq/tomorrow-night-bright-r-classic/blob/main/thirdpartynotices.txt).
