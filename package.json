@@ -2,6 +2,7 @@
   "name": "tomorrow-night-bright-r-classic",
   "displayName": "Tomorrow Night Bright (R Classic)",
   "description": "A modified Tomorrow Night Bright theme for Positron and VS Code, inspired by RStudio's implementation",
+  "publisher": "gvelasq",
   "version": "0.1.0",
   "engines": {
     "vscode": "^1.94.0"
