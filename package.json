@@ -1,23 +1,27 @@
 {
   "name": "tomorrow-night-bright-r-classic",
-  "displayName": "Tomorrow Night Bright (R Classic)",
-  "description": "A modified Tomorrow Night Bright theme for Positron and VS Code, inspired by RStudio's implementation",
-  "publisher": "gvelasq",
   "version": "0.1.0",
-  "license": "MIT",
+  "publisher": "gvelasq",
   "engines": {
     "vscode": "^1.94.0"
   },
+  "license": "MIT",
+  "displayName": "Tomorrow Night Bright (R Classic)",
+  "description": "A modified Tomorrow Night Bright theme for Positron IDE and VS Code, inspired by the RStudio IDE",
   "categories": [
     "Themes"
   ],
   "keywords": [
-    "theme",
-    "tomorrow night bright",
     "dark",
     "positron",
+    "python",
     "r"
+    "tomorrow",
   ],
+  "galleryBanner": {
+    "color": "#c397d8",
+    "theme": "dark"
+  },
   "contributes": {
     "themes": [
       {
@@ -26,5 +30,14 @@
         "path": "./themes/tomorrow-night-bright-r-classic.json"
       }
     ]
+  }
+  "icon": "./assets/logos/logo.png",
+  "homepage": "https://github.com/gvelasq/tomorrow-night-bright-r-classic/blob/main/README.md",
+  "bugs": {
+    "url": "https://github.com/gvelasq/tomorrow-night-bright-r-classic/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gvelasq/tomorrow-night-bright-r-classic.git"
   }
 }
