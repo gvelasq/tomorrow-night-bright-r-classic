@@ -1,5 +1,5 @@
 # Tomorrow Night Bright (R Classic)
-> A modified Tomorrow Night Bright theme for Positron IDE and VS Code, inspired by the RStudio IDE
+> A Tomorrow Night Bright theme for Positron IDE and VS Code, inspired by RStudio IDE
 
 <!-- badges: start -->
 [![Lifecycle:
