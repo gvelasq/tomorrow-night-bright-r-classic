@@ -1,6 +1,11 @@
 # Tomorrow Night Bright (R Classic)
 > A modified Tomorrow Night Bright theme for Positron IDE and VS Code, inspired by the RStudio IDE
 
+<!-- badges: start -->
+[![Lifecycle:
+experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
+<!-- badges: end -->
+
 <h2 align="center">
 <img src="assets/logos/logo.png" width="200" alt="Logo"/><br/>
 Tomorrow Night Bright (R Classic)

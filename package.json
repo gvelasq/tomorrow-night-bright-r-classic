@@ -31,11 +31,6 @@
       }
     ]
   },
-  "badges": [
-    "description": "Lifecycle: experimental",
-    "href": "https://lifecycle.r-lib.org/articles/stages.html#experimental",
-    "url": "https://img.shields.io/badge/lifecycle-experimental-orange.svg"
-  ],
   "icon": "./assets/logos/logo.png",
   "homepage": "https://github.com/gvelasq/tomorrow-night-bright-r-classic/blob/main/README.md",
   "bugs": {
