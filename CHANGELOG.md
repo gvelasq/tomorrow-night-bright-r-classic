@@ -1,6 +1,6 @@
 # tomorrow-night-bright-r-classic (development version)
 
-
+* Added a badge to README for the `publish-extension` action
 
 # tomorrow-night-bright-r-classic 0.1.2
 

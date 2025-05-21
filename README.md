@@ -2,6 +2,7 @@
 > A Tomorrow Night Bright theme for Positron IDE and VS Code, inspired by RStudio IDE
 
 <!-- badges: start -->
+[![publish-extension](https://github.com/gvelasq/tomorrow-night-bright-r-classic/actions/workflows/publish-extension.yaml/badge.svg)](https://github.com/gvelasq/tomorrow-night-bright-r-classic/actions/workflows/publish-extension.yaml)
 [![Lifecycle:
 experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 <!-- badges: end -->
