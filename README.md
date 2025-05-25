@@ -12,6 +12,10 @@ experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](h
 Tomorrow Night Bright (R Classic)
 </h2>
 
+<p align="center">
+<img src="assets/images/screenshot.png" alt="Screenshot"/><br/>
+</p>
+
 <h3 align="center">
   <a href="https://github.com/gvelasq/tomorrow-night-bright-r-classic#-palette">Palette</a>
 ·
