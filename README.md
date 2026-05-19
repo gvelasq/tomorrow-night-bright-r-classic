@@ -110,3 +110,9 @@ For more details, see the [LICENSE](https://github.com/gvelasq/tomorrow-night-br
 
 - [Official Positron documentation](https://positron.posit.co/migrate-rstudio-settings-and-extensions.html#extensions-for-rstudio-users)
 - [R Weekly Highlights](https://rweekly.org/2025-W23.html)
+- [Isabella Velásquez's pipedreams blog](https://ivelasq.rbind.io/blog/positron-theme/)
+- [R for the Rest of Us](https://rfortherestofus.com/2025/08/whats-new-in-r-august-25-2025)
+
+## Ported by
+
+- [hopsk for Neovim](https://github.com/hopsk/tomorrow-night-bright-rstudio.nvim?tab=readme-ov-file)
