@@ -5,6 +5,7 @@
 [![publish-extension](https://github.com/gvelasq/tomorrow-night-bright-r-classic/actions/workflows/publish-extension.yaml/badge.svg)](https://github.com/gvelasq/tomorrow-night-bright-r-classic/actions/workflows/publish-extension.yaml)
 [![Lifecycle:
 experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
+[![R Weekly](<https://img.shields.io/badge/Featured-R%20Weekly-blue>)](https://rweekly.org/2025-W23.html)
 <!-- badges: end -->
 
 <h2 align="center">
@@ -104,3 +105,8 @@ Tomorrow Night Bright (R Classic) is released under the MIT license, which grant
 - Private use
 
 For more details, see the [LICENSE](https://github.com/gvelasq/tomorrow-night-bright-r-classic/blob/main/LICENSE) and [third party notices](https://github.com/gvelasq/tomorrow-night-bright-r-classic/blob/main/thirdpartynotices.txt).
+
+## Featured in
+
+- [Official Positron documentation](https://positron.posit.co/migrate-rstudio-settings-and-extensions.html#extensions-for-rstudio-users)
+- [R Weekly Highlights](https://rweekly.org/2025-W23.html)
