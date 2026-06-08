@@ -6,6 +6,7 @@
 [![Lifecycle:
 experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 [![R Weekly](<https://img.shields.io/badge/Featured-R%20Weekly-blue>)](https://rweekly.org/2025-W23.html)
+[![Open VSX](https://img.shields.io/open-vsx/dt/gvelasq/tomorrow-night-bright-r-classic?label=Open%20VSX)](https://open-vsx.org/extension/gvelasq/tomorrow-night-bright-r-classic)
 <!-- badges: end -->
 
 <h2 align="center">
